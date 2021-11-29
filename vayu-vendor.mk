@@ -1110,6 +1110,8 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     TimeService \
+    adreno_graphics_driver \
+    gpu_profiling_vulkan_layer \
     com.qualcomm.qti.gpudrivers.msmnile.api30 \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleHEXAGON \
